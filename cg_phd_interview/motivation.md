@@ -13,3 +13,7 @@ Test environment, have huge application in real world, save a lot of manpower.
 Long interest.
 
 # Why do you want to engage in the area of geometry processing?
+Highly Math related.
+
+More interesting than rendering.
+
